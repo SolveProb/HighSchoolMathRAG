@@ -1,6 +1,11 @@
 # HighSchoolMathRAG
 high school math RAG
 
+## 前言
+
+1. 以赛代练，通过比赛快速熟悉相关理论及其应用，获取感性认识
+2. 能够快速实现想法，为后续科研/工作 培养能力
+
 ## 目标
 
 1. 能够作为高中学生的私人数学指导老师
@@ -76,4 +81,5 @@ high school math RAG
 3. 收集到的资料直接上传到本代码仓
 4. 相关调试代码，直接上传到本代码仓
 5. 若对 git 命令不熟，则快速学习一下 git相关命令，每人创建一个自己的分支，git 参考资料：https://www.runoob.com/git/git-basic-operations.html
+6. github 参考资料：https://www.runoob.com/w3cnote/git-guide.html
 
