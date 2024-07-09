@@ -1,6 +1,28 @@
 # HighSchoolMathRAG
 high school math RAG
 
+## 计划
+
+### 2024-07-09
+
+- [ ] 环境搭建，
+  - [ ] 使用mini conda创建一个本地可调用 nvidia语言模型的环境
+  - [ ] 使用 mini conda 将环境打包，并上传到本仓库
+  - [ ] 群里已经有人提供requirements.txt 文件（已上传到本代码仓），可尝试安装环境
+  - [ ] mini conda 参考资料：https://www.runoob.com/python-qt/anaconda-tutorial.html
+- [ ] 材料收集，10篇高考数学题目及其答案
+- [ ] 使用环境跑通一个调用nvidia 模型的最简单示例
+  - [ ] 参考教程：回顾训练营第一二节，研究一下如何获取 key，本地配置key，调用模型
+- [ ] 若环境搭建过程中，遇到问题，可在 大群里 @ 一下助教，或者问一下其他参赛者，将自己遇到的问题直接发在群里咨询
+- [ ] 本地IDE环境，建议使用 VScode，并且安装 marscode 智能插件提升代码编写效率
+  - [ ] marscode 智能插件参考链接：https://code.visualstudio.com/Download
+
+### 2024-07-10
+
+- [ ] 根据训练营中教程，启动服务，跑通最简单的包含前端的问答流程，搭建起一个最基本的环境
+
+
+
 ## 前言
 
 1. 以赛代练，通过比赛快速熟悉相关理论及其应用，获取感性认识
